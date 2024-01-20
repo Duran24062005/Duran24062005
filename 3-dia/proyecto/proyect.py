@@ -6,7 +6,7 @@ texto = texto.lower()
 letras.append(input("ingresa la primera letra: ").lower())
 letras.append(input("ingresa la segunda letra: ").lower())
 letras.append(input("ingresa la tercera letra: ").lower())
-
+#este es un comentario para explicar el pull request
 print("\n")
 print("CANTIDAD DE LETRAS")
 cantida_de_letras1 = texto.count(letras[0])
