@@ -4,11 +4,7 @@
 
 # ¡Hola! 👋 Soy **Alexi Durán Gómez**
 
-### 💻 Junior Fullstack Developer | Apasionado por la Tecnología  
-
-<div align="center" >
-  <img src="https://my-web-production-xi.vercel.app/image/Alexi_foto_perfil.jpeg" alt="Typing JPEG" style="border-radius: 9rem;" />
-</div>
+### 💻 Junior Fullstack Developer | Apasionado por la Tecnología 
 
 
 <div align="center">
