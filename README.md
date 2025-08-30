@@ -6,6 +6,10 @@
 
 ### 💻 Junior Fullstack Developer | Apasionado por la Tecnología  
 
+<div align="center" >
+  <img src="https://my-web-production-xi.vercel.app/image/Alexi_foto_perfil.jpeg" alt="Typing JPEG" style="border-radius: 9rem;" />
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Siempre+Aprendiendo+Algo+Nuevo;Bienvenido+a+mi+GitHub!" alt="Typing SVG" />
