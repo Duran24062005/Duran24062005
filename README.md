@@ -1,4 +1,6 @@
-![Banner](https://i.pinimg.com/originals/04/2a/66/042a6606ce977ec8e80a2eecf223d320.gif)  
+<div align="center">
+  <img src="https://i.pinimg.com/originals/04/2a/66/042a6606ce977ec8e80a2eecf223d320.gif" alt="Typing GIF" />
+</div>
 
 # ¡Hola! 👋 Soy **Alexi Durán Gómez**
 
