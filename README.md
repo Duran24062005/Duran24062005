@@ -1,8 +1,8 @@
+![Banner](https://i.pinimg.com/originals/04/2a/66/042a6606ce977ec8e80a2eecf223d320.gif)  
+
 # ¡Hola! 👋 Soy **Alexi Durán Gómez**
 
 ### 💻 Junior Fullstack Developer | Apasionado por la Tecnología  
-
-![Banner](https://i.pinimg.com/originals/04/2a/66/042a6606ce977ec8e80a2eecf223d320.gif)  
 
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Duran24062005&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Duran24062005?label=Seguidores&style=social" alt="GitHub followers" />
 </p>
 
 ---
