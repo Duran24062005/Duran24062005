@@ -69,7 +69,9 @@
 - 🚀 Me gusta crear **apps simples y útiles** para negocios locales.  
 - 📚 Actualmente estoy aprendiendo **Programación Orientada a Objetos** y **C++ para Arduino**.  
 - 🎨 Disfruto diseñar **interfaz minimalistas** y trabajar con **UI/UX**.  
-- 🌎 Sueño con trabajar fuera del país y seguir aprendiendo tecnologías nuevas.  
+- 🌎 Sueño con trabajar fuera del país y seguir aprendiendo tecnologías nuevas.
+- 🎧 Me encanta escuchar música en mis ratos libres.  
+- 🍳 También disfruto mucho de la cocina y experimentar con nuevas recetas.  
 
 ---
 
