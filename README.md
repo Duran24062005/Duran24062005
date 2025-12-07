@@ -1,11 +1,15 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/04/2a/66/042a6606ce977ec8e80a2eecf223d320.gif" alt="Typing GIF" />
+  <img src="https://camo.githubusercontent.com/55f8325bcbf835ab2215692aed6f88230a17ad2e0b3d35607f96d5daad9003c8/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505459794f475a6b4d7a5a6d4e5756354f4770764d6a5a795a6a4e6d59325a70656d6b7a4d6e59794e586876646e526c614868706144686b4e6d70695a47743162695a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f6831516d4a78776f437231394274546b47742f67697068792e676966" alt="Typing GIF" />
 </div>
+
+<div align="center">
 
 # Hello! 👋 I'm **Alexi Durán Gómez**
 
-### 💻 Junior Fullstack Developer | Passionate About Technology
+</div>
 
+### 💻 Junior Fullstack Developer | Passionate About Technology
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+About+Technology;Always+Learning+Something+New;Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -18,18 +22,20 @@
 ---
 
 ## 🚀 About Me
+
 ✨ I’m a motivated and motivating person, eager to learn and improve.  
 👨‍💻 Passionate about web and mobile development with **Laravel, React, Vue, Next.js, and React Native**.  
 📊 Experience with **MySQL, PostgreSQL databases** and **REST APIs with FastAPI**.  
-🎯 Goal: keep growing as a programmer and share knowledge with the community.  
+🎯 Goal: keep growing as a programmer and share knowledge with the community.
 
 ### 🌟 Soft Skills
-- 🤝 Teamwork and collaboration  
-- 🗣️ Assertive communication  
-- 🧠 Adaptability and continuous learning  
-- 🎯 Problem-solving focus  
-- 🔥 Leadership and motivation towards others  
-- ⏱️ Organization and time management  
+
+- 🤝 Teamwork and collaboration
+- 🗣️ Assertive communication
+- 🧠 Adaptability and continuous learning
+- 🎯 Problem-solving focus
+- 🔥 Leadership and motivation towards others
+- ⏱️ Organization and time management
 
 ---
 
@@ -52,7 +58,7 @@
 
 ## 📈 Recent Activity
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Duran24062005&theme=tokyonight&hide_border=false)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Duran24062005&theme=tokyonight&hide_border=false)
 
 ---
 
@@ -66,12 +72,12 @@
 
 ## ✨ A Little More About Me
 
-- 🚀 I like creating **simple and useful apps** for local businesses.  
-- 📚 Currently learning **Object-Oriented Programming** and **C++ for Arduino**.  
-- 🎨 I enjoy designing **minimalist interfaces** and working with **UI/UX**.  
-- 🌎 My dream is to work abroad and keep learning new technologies.  
-- 🎧 I love listening to music in my free time.  
-- 🍳 I also really enjoy cooking and experimenting with new recipes.  
+- 🚀 I like creating **simple and useful apps** for local businesses.
+- 📚 Currently learning **Object-Oriented Programming** and **C++ for Arduino**.
+- 🎨 I enjoy designing **minimalist interfaces** and working with **UI/UX**.
+- 🌎 My dream is to work abroad and keep learning new technologies.
+- 🎧 I love listening to music in my free time.
+- 🍳 I also really enjoy cooking and experimenting with new recipes.
 
 ---
 
@@ -94,7 +100,6 @@
 
 ---
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=70" />
 </div>
@@ -104,4 +109,5 @@
 **"The best time to plant a tree was 20 years ago. The second-best time is now."** 🌱
 
 ⭐ Don’t forget to star my repositories if you find them useful!
+
 </div>
