@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="./Banner para Linkedin programador con fotografia azul y blanco.png">
   <img src="https://camo.githubusercontent.com/55f8325bcbf835ab2215692aed6f88230a17ad2e0b3d35607f96d5daad9003c8/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505459794f475a6b4d7a5a6d4e5756354f4770764d6a5a795a6a4e6d59325a70656d6b7a4d6e59794e586876646e526c614868706144686b4e6d70695a47743162695a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f6831516d4a78776f437231394274546b47742f67697068792e676966" alt="Typing GIF" />
 </div>
 
@@ -41,7 +42,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,next,vue,laravel,fastapi,python,cpp,mysql,postgresql,git,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,tailwind,react,next,vue,laravel,fastapi,python,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,nodejs,express,linux,ubuntu" />
 </p>
 
 ---
