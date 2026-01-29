@@ -23,19 +23,55 @@
 
 ## 🚀 About Me
 
-✨ I’m a motivated and motivating person, eager to learn and improve.  
+**Full-Stack Developer**, creator of simple, minimalist, and powerful digital experiences. Transformer of ideas into real applications using cutting-edge technology. Builder of complete solutions, from backend architecture to modern and fluid interfaces, maintaining continuous learning, conscious use of emotional skills, and a professional approach oriented towards achievement.
+
+✨ I'm a motivated and motivating person, eager to learn and improve.  
 👨‍💻 Passionate about web and mobile development with **Laravel, React, Vue, Next.js, and React Native**.  
 📊 Experience with **MySQL, PostgreSQL databases** and **REST APIs with FastAPI**.  
 🎯 Goal: keep growing as a programmer and share knowledge with the community.
 
-### 🌟 Soft Skills
+---
 
-- 🤝 Teamwork and collaboration
-- 🗣️ Assertive communication
-- 🧠 Adaptability and continuous learning
-- 🎯 Problem-solving focus
-- 🔥 Leadership and motivation towards others
-- ⏱️ Organization and time management
+## 💼 Professional Experience
+
+### **Software Developer** | Tensor S.A.S
+
+Development of an e-commerce application in JavaScript that uses the Amazon API to display products. Users can search for items on Amazon with a seamless experience.
+
+### **LMS (Learning Management System)** | Campuslands
+
+Learning management platform (LMS) with multiple user profiles (administrators, teachers, and students). Modular system that allows course management, academic monitoring, and pedagogical interaction. Designed with scalable architecture using APIs and Fetch API.
+
+### **My Professional Portfolio** | Campuslands
+
+A comprehensive platform developed from scratch using React, Express and MongoDB as the database, with a minimalist and functional approach. The goal is to showcase and improve my development skills.
+
+---
+
+## 🌟 Soft Skills & Competencies
+
+<div align="center">
+
+|    🎯 Core Competencies    | 🤝 Interpersonal Skills |
+| :------------------------: | :---------------------: |
+|       **Leadership**       |    **Communication**    |
+|  **Continuous Learning**   |    **Adaptability**     |
+|       **Discipline**       |     **Proactivity**     |
+| **Emotional Intelligence** |      **Teamwork**       |
+
+</div>
+
+### Additional Soft Skills
+
+- 🗣️ **Assertive Communication** - Clear and effective interaction
+- 🧠 **Adaptability and Continuous Learning** - Quick adjustment to new technologies
+- 🎯 **Problem-Solving Focus** - Solution-oriented mindset
+- 🔥 **Leadership and Motivation** - Inspiring and guiding others
+- ⏱️ **Organization and Time Management** - Efficient task prioritization
+- 🤝 **Teamwork and Collaboration** - Cooperative work environment
+- 💡 **Creativity** - Innovative thinking and solutions
+- 🫱🏻‍🫲🏽 **Empathy** - Understanding others' perspectives
+- ⏳ **Patience** - Persistent and calm approach
 
 ---
 
@@ -67,6 +103,26 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duran24062005&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+
+---
+
+## 🎓 Education & Training
+
+**Software Programming Technician** | Campuslands, Floridablanca  
+📅 April 2025 - April 2026
+
+**Basic Level Programming** | ICT Ministry  
+📅 October 2025
+
+**High School - Technical** | IE Arsenio Gutiérrez Barbosa  
+📅 2023
+
+---
+
+## 🌐 Languages
+
+- 🇪🇸 **Spanish** - Native Speaker
+- 🇬🇧 **English** - B1 Level
 
 ---
 
@@ -113,6 +169,6 @@
   
 **"The best time to plant a tree was 20 years ago. The second-best time is now."** 🌱
 
-⭐ Don’t forget to star my repositories if you find them useful!
+⭐ Don't forget to star my repositories if you find them useful!
 
 </div>
