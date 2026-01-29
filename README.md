@@ -42,7 +42,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,tailwind,react,next,vue,laravel,fastapi,python,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,nodejs,express,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,tailwind,react,next,vue,laravel,fastapi,python,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,spring,nodejs,express,linux,ubuntu" />
 </p>
 
 ---
