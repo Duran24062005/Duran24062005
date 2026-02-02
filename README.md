@@ -78,7 +78,11 @@ A comprehensive platform developed from scratch using React, Express and MongoDB
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,tailwind,react,next,vue,laravel,fastapi,python,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,spring,nodejs,express,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,tailwind,react,next,vue,php,laravel,python,fastapi,cs,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,spring,nodejs,express,vitest,linux,ubuntu" />
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,tailwind,sass,react,reactnative,expo,next,vue,php,laravel,python,fastapi,sqlalchemy,alembic,cs,cpp,mysql,postgresql,mongodb,git,github,docker,postman,insomnia,vitest,chartjs,java,spring,nodejs,express,linux,ubuntu" />
+
 </p>
 
 ---
