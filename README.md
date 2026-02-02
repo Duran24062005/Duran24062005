@@ -78,7 +78,7 @@ A comprehensive platform developed from scratch using React, Express and MongoDB
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,tailwind,react,next,vue,php,laravel,python,fastapi,cs,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,spring,nodejs,express,vitest,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,arduino,html,css,js,ts,bootstrap,tailwind,react,next,vue,php,laravel,python,fastapi,cs,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,spring,nodejs,express,vitest,linux,ubuntu,vite" />
 </p>
 
 ---
@@ -102,6 +102,7 @@ A comprehensive platform developed from scratch using React, Express and MongoDB
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duran24062005&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+  
 </div>
 
 ---
