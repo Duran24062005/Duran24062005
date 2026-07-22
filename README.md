@@ -8,7 +8,7 @@
 
 </div>
 
-### 💻 Junior Fullstack Developer | Passionate About Technology
+### 💻 Fullstack Developer | Technology Creator
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+About+Technology;Always+Learning+Something+New;Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -77,7 +77,7 @@ A comprehensive platform developed from scratch using React, Express and MongoDB
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,arduino,html,css,js,ts,bootstrap,tailwind,react,next,vue,php,laravel,python,fastapi,cs,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,spring,nodejs,express,vitest,linux,ubuntu,vite,aws" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,arduino,html,css,js,ts,bootstrap,tailwind,react,next,vue,php,laravel,python,fastapi,cs,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,spring,nodejs,express,vitest,linux,ubuntu,vite,aws,rust,dart,flutter" />
 </p>
 
 ---
