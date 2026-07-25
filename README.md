@@ -82,15 +82,6 @@ A comprehensive platform developed from scratch using React, Express and MongoDB
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duran24062005&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duran24062005&layout=compact&theme=tokyonight" alt="langs" height="180"/>
-</p>
-
----
-
 ## 📈 Recent Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Duran24062005&theme=tokyonight&hide_border=false)
