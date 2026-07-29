@@ -11,7 +11,7 @@
 ### 💻 Fullstack Developer | Technology Creator
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+About+Technology;Always+Learning+Something+New;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Technology+Builder;Always+Learning+Something+New;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Duran24062005&label=Profile%20Visits&color=0e75b6&style=flat" alt="Profile views" />
