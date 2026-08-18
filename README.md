@@ -4,14 +4,14 @@
 
 <div align="center">
 
-# Hello! 👋 I'm **Alexi Durán Gómez**
+# Hello! I'm **Alexi Durán Gómez**
 
 </div>
 
-### 💻 Fullstack Developer | Technology Creator
+### Full-Stack Developer | Software Architect & Technical Trainer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Technology+Builder;Always+Learning+Something+New;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Architecture+Enthusiast;Building+Scalable+Solutions;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Duran24062005&label=Profile%20Visits&color=0e75b6&style=flat" alt="Profile views" />
@@ -20,75 +20,63 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-**Full-Stack Developer**, creator of simple, minimalist, and powerful digital experiences. Transformer of ideas into real applications using cutting-edge technology. Builder of complete solutions, from backend architecture to modern and fluid interfaces, maintaining continuous learning, conscious use of emotional skills, and a professional approach oriented towards achievement.
+I am a Full-Stack Developer and startup co-founder focused on creating scalable, functional software solutions. I specialize in building robust backend architectures and seamless frontend experiences, frequently working with technologies like React, Node.js, Python (FastAPI), and C# (.NET). 
 
-✨ I'm a motivated and motivating person, eager to learn and improve.  
-👨‍💻 Passionate about web and mobile development with **Laravel, React, Vue, Next.js, and React Native**.  
-📊 Experience with **MySQL, PostgreSQL databases** and **REST APIs with FastAPI**.  
-🎯 Goal: keep growing as a programmer and share knowledge with the community.
+My approach to development goes beyond just writing code; I am deeply interested in software architecture patterns, such as N-Tier layered models, and creating offline-first applications that solve real-world problems in areas with limited connectivity. Alongside development, I also work as a technical trainer, guiding the next generation in artificial intelligence and content creation.
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience & Featured Projects
 
-### **Software Developer** | Tensor S.A.S
+### Co-Founder & Developer | TRINODE
+Driving the technical strategy and client acquisition for a software startup. Building custom automation flows and database solutions, including recent architecture utilizing n8n and the Meta WhatsApp API for clients requiring large-scale automated communications and database sanitization.
 
-Development of an e-commerce application in JavaScript that uses the Amazon API to display products. Users can search for items on Amazon with a seamless experience.
+### Cowbit
+Developing a specialized mobile application designed for livestock and crop management. Engineered with an offline-first architecture using SQLite for local storage and asynchronous synchronization to a PostgreSQL backend via FastAPI, ensuring reliability in rural areas with poor internet connectivity.
 
-### **LMS (Learning Management System)** | Campuslands
+### LoanChain
+Building a digital platform for rotating savings associations and micro-loans. Designed with a strict layered Model-View-Controller (MVC) architecture, prioritizing data encryption and secure handling of personal identifiers.
 
-Learning management platform (LMS) with multiple user profiles (administrators, teachers, and students). Modular system that allows course management, academic monitoring, and pedagogical interaction. Designed with scalable architecture using APIs and Fetch API.
-
-### **My Professional Portfolio** | Campuslands
-
-A comprehensive platform developed from scratch using React, Express and MongoDB as the database, with a minimalist and functional approach. The goal is to showcase and improve my development skills.
-
----
-
-## 🌟 Soft Skills & Competencies
-
-<div align="center">
-
-|    🎯 Core Competencies    | 🤝 Interpersonal Skills |
-| :------------------------: | :---------------------: |
-|       **Leadership**       |    **Communication**    |
-|  **Continuous Learning**   |    **Adaptability**     |
-|       **Discipline**       |     **Proactivity**     |
-| **Emotional Intelligence** |      **Teamwork**       |
-
-</div>
-
-### Additional Soft Skills
-
-- 🗣️ **Assertive Communication** - Clear and effective interaction
-- 🧠 **Adaptability and Continuous Learning** - Quick adjustment to new technologies
-- 🎯 **Problem-Solving Focus** - Solution-oriented mindset
-- 🔥 **Leadership and Motivation** - Inspiring and guiding others
-- ⏱️ **Organization and Time Management** - Efficient task prioritization
-- 🤝 **Teamwork and Collaboration** - Cooperative work environment
-- 💡 **Creativity** - Innovative thinking and solutions
-- 🫱🏻‍🫲🏽 **Empathy** - Understanding others' perspectives
-- ⏳ **Patience** - Persistent and calm approach
+### EduConnect
+Developed a comprehensive full-stack educational platform featuring role-based dashboards (administrators, teachers, students) and academic management tools, built from the ground up using Node.js and React.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Core Competencies
+
+*   **Software Architecture:** Layered/MVC design, offline-first mobile architectures.
+*   **Backend Development:** REST API design, database clustering, asynchronous synchronization, Python, C#, Node.js.
+*   **Frontend Development:** Component-driven UI, state management, minimalist interface design.
+*   **Leadership & Communication:** Mentoring, technical training, cross-functional collaboration, assertive communication.
+
+---
+
+## Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,arduino,html,css,js,ts,bootstrap,tailwind,react,next,vue,php,laravel,python,fastapi,cs,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,spring,nodejs,express,vitest,linux,ubuntu,vite,aws,rust,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,arduino,html,css,js,ts,bootstrap,tailwind,react,next,vue,php,laravel,python,fastapi,cs,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,spring,nodejs,express,vitest,linux,ubuntu,vite,aws" />
 </p>
 
 ---
 
-## 📈 Recent Activity
+## My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Duran24062005&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duran24062005&layout=compact&theme=tokyonight" alt="langs" height="180"/>
+</p>
+
+---
+
+## Recent Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Duran24062005&theme=tokyonight&hide_border=false)
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duran24062005&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
@@ -97,34 +85,32 @@ A comprehensive platform developed from scratch using React, Express and MongoDB
 
 ---
 
-## 🎓 Education & Training
+## Education & Training
 
 **Software Programming Technician** | Campuslands, Floridablanca  
-📅 April 2025 - April 2026
+April 2025 - April 2026
 
 **Basic Level Programming** | ICT Ministry  
-📅 October 2025
+October 2025
 
-**High School - Technical** | IE Arsenio Gutiérrez Barbosa  
-📅 2023
-
----
-
-## 🌐 Languages
-
-- 🇪🇸 **Spanish** - Native Speaker
-- 🇬🇧 **English** - B1 Level
+**Technical High School** | IE Arsenio Gutiérrez Barbosa  
+2023
 
 ---
 
-## ✨ A Little More About Me
+## Languages
 
-- 🚀 I like creating **simple and useful apps** for local businesses.
-- 📚 Currently learning **Object-Oriented Programming** and **C++ for Arduino**.
-- 🎨 I enjoy designing **minimalist interfaces** and working with **UI/UX**.
-- 🌎 My dream is to work abroad and keep learning new technologies.
-- 🎧 I love listening to music in my free time.
-- 🍳 I also really enjoy cooking and experimenting with new recipes.
+- **Spanish** - Native Speaker
+- **English** - B1 Level
+
+---
+
+## A Little More About Me
+
+- I enjoy building applications that directly benefit local businesses and agricultural sectors.
+- Actively expanding my knowledge in embedded systems programming, including work with ESP32, Arduino, and the FreeRTOS kernel.
+- Passionate about clean UI/UX design, utilizing AI-driven prototyping tools to accelerate development.
+- Outside of programming, I enjoy cooking, experimenting with new recipes, and listening to rock music.
 
 <div align="center">
 <p>My favorite Rock Band</p>
@@ -133,33 +119,23 @@ A comprehensive platform developed from scratch using React, Express and MongoDB
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
 
 <p align="center">
-
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/alexi-duran-gomez-6b17042a3/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+            <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Duran24062005">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/alexis_duran_dg/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+       <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/alexis_duran_dg/">
+            <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       </div>
-
 </p>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=70" />
-</div>
-
-<div align="center">
-  
-**"The best time to plant a tree was 20 years ago. The second-best time is now."** 🌱
-
-⭐ Don't forget to star my repositories if you find them useful!
-
 </div>
