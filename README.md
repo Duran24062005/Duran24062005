@@ -56,23 +56,8 @@ Developed a comprehensive full-stack educational platform featuring role-based d
 ## Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,arduino,html,css,js,ts,bootstrap,tailwind,react,next,vue,php,laravel,python,fastapi,cs,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,spring,nodejs,express,vitest,linux,ubuntu,vite,aws" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,arduino,html,css,js,ts,bootstrap,tailwind,react,next,vue,php,laravel,python,fastapi,cs,cpp,mysql,postgresql,mongodb,git,github,docker,postman,java,spring,nodejs,express,vitest,linux,ubuntu,vite,aws,rust,dart" />
 </p>
-
----
-
-## My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duran24062005&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duran24062005&layout=compact&theme=tokyonight" alt="langs" height="180"/>
-</p>
-
----
-
-## Recent Activity
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Duran24062005&theme=tokyonight&hide_border=false)
 
 ---
 
