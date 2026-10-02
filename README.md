@@ -61,15 +61,6 @@ Developed a comprehensive full-stack educational platform featuring role-based d
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duran24062005&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
-  
-</div>
-
----
-
 ## Education & Training
 
 **Software Programming Technician** | Campuslands, Floridablanca  
